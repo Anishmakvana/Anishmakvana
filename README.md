@@ -60,7 +60,7 @@
 
 ## 🌐 Connect With Me  
 - 💼 Open to internships & entry-level opportunities  
-- 📧 Email: *Add your professional email here*  
+- 📧 Email: makvanaanish01@gmail.com 
 - 🔗 LinkedIn: *Add your LinkedIn profile link here*  
 
 ---
