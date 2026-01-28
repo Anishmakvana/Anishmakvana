@@ -2,8 +2,9 @@
 <h3 align="center">B.Tech CSE Student | Full-Stack & ML Enthusiast | Indus University, Ahmedabad</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anishmakvana&label=Profile%20Views&color=0e75b6&style=flat" alt="Anishmakvana" />
+  <img src="profile.jpg" width="180" style="max-width:100%; border-radius:50%;" />
 </p>
+
 
 ---
 
